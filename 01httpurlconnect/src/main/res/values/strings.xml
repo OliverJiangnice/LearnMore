@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">01HttpurlConnect</string>
+    <string name="weather">查询桂林今天天气</string>
+</resources>
